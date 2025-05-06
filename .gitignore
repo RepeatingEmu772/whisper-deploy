@@ -1,0 +1,5 @@
+*.mp3
+transcription.txt
+remote/
+__pycache__/
+*.pyc 
